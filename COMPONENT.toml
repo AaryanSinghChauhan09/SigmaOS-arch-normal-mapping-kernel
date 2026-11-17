@@ -3,7 +3,7 @@ name = "SigmaOS-arch-normal-mapping-kernel"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "arch-normal-mapping-kernel component"
+description = "SigmaOS SigmaOS-arch-normal-mapping-kernel component"
 upstream = []
 
 [contract]
